@@ -1,0 +1,37 @@
+<Response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<status>0</status>
+<message>Success</message>
+  <persons>  
+    <person>
+          <id>01</id>
+          <name>Andrew</name>
+          <email>info@shopper.com</email>
+          <timestamp>1365600248</timestamp>
+    </person>
+    <person>
+          <id>02</id>
+          <name>Mark</name>
+          <email>admin@shopper.com</email>
+          <timestamp>1365500248</timestamp>
+    </person>
+    <person>
+          <id>03</id>
+          <name>John</name>
+          <email>support@shopper.com</email>
+          <timestamp>1366600248</timestamp>
+    </person>
+    <person>
+          <id>04</id>
+          <name>Adam</name>
+          <email>job@shopper.com</email>
+          <timestamp>1315600248</timestamp>
+    </person>
+    <person>
+          <id>05</id>
+          <name>Michael</name>
+          <email>michael@shopper.com</email>
+          <timestamp>1365200248</timestamp>
+    </person>
+  </persons>
+</Response>
+          
